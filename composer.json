@@ -1,0 +1,9 @@
+{
+    "name": "39320/tardis",
+    "autoload": {
+        "psr-4": {
+            "39320\\Tardis\\": "src/"
+        }
+    },
+    "require": {}
+}
